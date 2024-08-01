@@ -1,0 +1,10 @@
+.booking-container{
+    display: flex;
+    align-items: flex-start; 
+    justify-content: center;   
+}
+.bookings{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.header{
+    background-image: url("/src/Images/Header.webp");
+    height: 615px;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.title{
+    font-weight: bold;
+    margin-top: 80px;
+    color: #2C5F2D;
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-left: 300px;
+}
+
+.sub-title{
+    font-weight: bold;
+    color: #97BC62;
+    font-size: 40px;
+    margin-left: 530px;
+}
+
+.home p{
+    color: #2C5F2D;
+    text-align: center;
+    font-size: 17px;
+    color: black;
+    background-color: #97BC62;
+    padding: 12px;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
